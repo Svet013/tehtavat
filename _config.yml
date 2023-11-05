@@ -1,6 +1,11 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
-theme: jekyll-theme-so-simple
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-last-modified-at
 
 
 header_pages:
